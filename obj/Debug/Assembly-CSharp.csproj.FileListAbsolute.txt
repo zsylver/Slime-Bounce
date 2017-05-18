@@ -29,3 +29,34 @@ C:\Users\Leejed\Desktop\School shit\Lynda\C# for Unity Game Development\FirstMob
 C:\Users\Leejed\Desktop\School shit\Lynda\C# for Unity Game Development\FirstMobileGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Leejed\Desktop\School shit\Lynda\C# for Unity Game Development\FirstMobileGame\obj\Debug\Assembly-CSharp.dll
 C:\Users\Leejed\Desktop\School shit\Lynda\C# for Unity Game Development\FirstMobileGame\obj\Debug\Assembly-CSharp.pdb
+C:\FirstMobileGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\FirstMobileGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\FirstMobileGame\Temp\bin\Debug\nunit.framework.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEditor.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.VR.dll
+C:\FirstMobileGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\FirstMobileGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\FirstMobileGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\FirstMobileGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\FirstMobileGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\FirstMobileGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\FirstMobileGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\FirstMobileGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.xml
+C:\FirstMobileGame\Temp\bin\Debug\UnityEditor.xml
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\FirstMobileGame\Temp\bin\Debug\nunit.framework.xml
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\FirstMobileGame\Temp\bin\Debug\UnityEngine.VR.xml
+C:\FirstMobileGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\FirstMobileGame\obj\Debug\Assembly-CSharp.dll
+C:\FirstMobileGame\obj\Debug\Assembly-CSharp.pdb

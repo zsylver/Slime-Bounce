@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour {
     public Transform UpDown;
 
     private int platNumber; // used to assign prefabs to a number 1-4
+    private int chanceNumber;
 
     private float platCheck;    //checks if player height is near and spawn platform
     private float spawnPlatformTo;  //prev location platforms were spawned
@@ -79,28 +80,32 @@ public class GameManager : MonoBehaviour {
         while ( y <= floatValue)
         { 
             float x = Random.Range(-2.7f, 2.7f);
-            
 
-            platNumber = Random.Range(1, 5);
+
+            platNumber = Random.Range(1, 4);
+            chanceNumber = Random.Range(1, 4);
 
             Vector2 posXY = new Vector2(x, y);
 
             // use the platnumber to randomly pick to spawn a specific platform
-            if (platNumber == 1)
-                {
-                Instantiate(regular, posXY, Quaternion.identity);
-                }
-            if (platNumber == 2)
-                {
-                Instantiate(jump, posXY, Quaternion.identity);
-                }
-            if (platNumber == 3)
+            if (chanceNumber == 3)
             {
-                Instantiate(LeftRight, posXY, Quaternion.identity);
+                if (platNumber == 1)
+                {
+                    Instantiate(jump, posXY, Quaternion.identity);
+                }
+                if (platNumber == 2)
+                {
+                    Instantiate(LeftRight, posXY, Quaternion.identity);
+                }
+                if (platNumber == 3)
+                {
+                    Instantiate(UpDown, posXY, Quaternion.identity);
+                }
             }
-            if (platNumber == 4)
-            {
-                Instantiate(UpDown, posXY, Quaternion.identity);
+            else if (chanceNumber <= 2)
+            {              
+                    Instantiate(regular, posXY, Quaternion.identity);
             }
             
             y += Random.Range(0.5f, 2f);

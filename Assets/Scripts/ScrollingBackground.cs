@@ -14,6 +14,7 @@ public class ScrollingBackground : MonoBehaviour
         Vector2 offset = mat.mainTextureOffset;
 
         offset.x = transform.position.y / transform.localScale.y / parralax;
+        offset.y += Time.deltaTime / 20f;
 
         mat.mainTextureOffset = offset;
     }
